@@ -7,22 +7,15 @@
 
 <VBox xmlns:fx="http://javafx.com/fxml/1">
 	<!-- TODO Add Nodes -->
-	<Label> "Tengo tukoh, tukoh taka, tukoh tuh, ta-ta
+	<Label> Tengo tukoh, tukoh taka, tukoh tuh, ta-ta
 		Tukoh tuh, ta-ta, tukoh tuh, ta-ta
 		Tukoh, tukoh taka, tukoh tuh, ta-ta
 		Tukoh tuh, ta-ta, tukoh tuh, ta-ta (Yalla Sawa)
-		Tukoh, tukoh taka, tukoh tuh, ta-ta
-		Tukoh tuh, ta-ta, tukoh tuh, ta-ta
-		Tukoh, tukoh taka, tukoh tuh, ta-ta
-		Tukoh tuh, ta-ta, tukoh tuh, ta-ta (Yalla Sawa)
-		Tukoh, tukoh taka, tukoh tuh, ta-ta
-		Tukoh tuh, ta-ta, tukoh tuh, ta-ta
-		Tukoh, tukoh taka, tukoh tuh, ta-ta
-		Tukoh tuh, ta-ta, tukoh tuh, ta-ta "</Label>
+	</Label>
 
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Hi there we are using GITHUB"
+		   text="WORLD CUP 2022 MODE IS ON!!! "
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
