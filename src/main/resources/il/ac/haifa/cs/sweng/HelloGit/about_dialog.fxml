@@ -21,23 +21,12 @@
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
 		   text="Saleh Manasra"
-
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
 			<Font size="31.0" />
 		</font>
 	</Label>
-  	</Labe2>
-	<Label alignment="CENTER"
-		   maxWidth="2.7976931348623157E308"
-		   text="Moad abd Allatif"
-
-		   textAlignment="CENTER"
-		   VBox.vgrow="ALWAYS">
-		<font>
-			<Font size="31.0" />
-		</font>
-	</Labe2>
 
 </VBox>
+
